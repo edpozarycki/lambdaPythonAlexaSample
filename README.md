@@ -1,4 +1,1 @@
-# lamdaPythonAlexaSample
-# lamdaPythonAlexaSample
-# lamdaPythonAlexaSample
 # lambdaPythonAlexaSample
